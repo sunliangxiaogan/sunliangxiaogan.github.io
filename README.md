@@ -39,7 +39,7 @@ npm run build
 1. 确保代码推送到`main`分支
 2. GitHub Actions会自动构建并部署到GitHub Pages
 
-访问地址: https://[username].github.io/sunliang-blog/
+访问地址: https://sunliangxiaogan.github.io
 
 ## 功能实现
 
